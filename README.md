@@ -11,11 +11,16 @@ Computer Engeneering Student at Senai Cimatec University
 <img align="left" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="C++" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/postgresql/postgresql-original.svg?short_path=4656cb7" >
 
-
 <br/>
 <br/>
 
-  
+### *Language Proficiency:*
+*- Portuguese: Native* </br>
+*- English: Fluent* </br>
+*- Spanish: Average*
+
+<br/>
+
 ### Connect with me
  
 <div> 
